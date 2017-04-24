@@ -518,6 +518,12 @@ h6,
 #features2-1 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #000000;
 }
+#features2-1 .mbr-cards-col:nth-child(even) .card-text {
+  color: #ffffff;
+}
+#features2-1 .mbr-cards-col:nth-child(even) .card-title {
+  color: #ffffff;
+}
 #form1-2 .form-control-label {
   color: #28324e;
 }
