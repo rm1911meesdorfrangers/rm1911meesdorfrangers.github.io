@@ -137,7 +137,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://rm1911meesdorfrangers.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GER-FORSVARET</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-0\">INTRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\">CONTENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#feed-6\">NEWVIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-4\">POST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form2-3\">MAILINGLIST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-0\">INTRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\">CONTENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#feed-6\">LASTVIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-4\">POST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form2-3\">MAILINGLIST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -153,7 +153,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#41a85f",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -214,7 +214,7 @@
             "showButtons": false
           },
           "title": "<span style=\"line-height: 1.1;\">GERMAN FORSVARET&nbsp;</span><br><br>",
-          "text": "<b>NO TROLLZ/LAMERZ/CLOWNZ/ORIENT/ETC... ALLOWED</b><br><b>STATUS: INFORMED, ACCEPTED &amp; LOADING</b><br><b>BACKGROUND:&nbsp;Started early at www.meesdorf.de and using WIKIPEDIA and more openplattforms, this project now is having some more decent impact on the military-scene. BFGNET is an enemy, and still tries to snap our life and rawsources directly away. USEUCOM is about to coop, but cannot differ between that clowns that play us. MILRU sends just the clowns that USEUCOM cannot detarn, because of their special allyship with BFGNET since second worldwar. The Trollz are mostly BFGNET-tarncapped and from Sovjet-Grounds, while they play german and of course use US-Military and common Police Tools and Clothes! Here the project comes to the plan! We detarn and replace with the Original Force. Then a real force is again on the streets- and in the houses... What you ordered, shall be what you get! We fight mostly on digitalgrounds in nord-secretservices manner!</b><br>",
+          "text": "<b>Started earlier and showed up at www.meesdorf.de (presented for free to the local patriotclub) and using trollic WIKIPEDIA and more openplattforms, this project now is having some more decent impact on the military-scene. CLOWN-BFGNET is an enemy, and still tries to snap our life and rawsources directly away. LAMER-USEUCOM is about to coop, but cannot differ between that clowns that play us. TROLL-MILRU sends just the orcz that LAMER-USEUCOM cannot detarn, because of it's special allyship with CLOWN-BFGNET since second worldwar. The Orcz are mostly CLOWN-BFGNET tarncapped and from sovjet-ruled grounds running in, while they play uber-german and want to have a female uber-german- while tricky using spare speech and &nbsp;US-Military and common World-Police tools and clothes! They try to convince their tricked partners in FOREIGN-FOX-ORK SWIZZERA style. Here our project comes to the show! We detarn with showing fotos and discussing with the unoriginal-BWEHR forces. If this leads to a success, a reality force is saved from trollz,lamerz,clownz and their orkz! At recruiting this style is needed, to differ between human efforts and tricky money-falsgreppers! The ebering non-stop orc-kissing tricks on our people make a broader audience, next to secretservice a \"needed counter-intelligence\" inevitable, to protect the born germanic will from destruction of allied-command...</b><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -386,7 +386,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1328.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#c1c1c1",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -458,7 +458,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": "0.5",
