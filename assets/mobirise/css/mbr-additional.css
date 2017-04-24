@@ -508,8 +508,11 @@ h6,
 }
 #header1-0 .mbr-section-lead B {
   font-family: 'Open Sans', sans-serif;
-  color: #c1c1c1;
+  color: #efefef;
   font-size: 32px;
+}
+#header1-0 .mbr-section-title SPAN {
+  color: #fac51c;
 }
 #features2-1 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #000000;
