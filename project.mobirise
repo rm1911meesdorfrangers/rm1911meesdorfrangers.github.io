@@ -136,7 +136,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://rm1911meesdorfrangers.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GER-FORSVARET</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://rm1911meesdorfrangers.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GER+FORSVARET</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-0\">INTRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\">CONTENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#feed-6\">LATEST VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\">YOUR FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-4\">POST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form2-3\">JOIN MAILINGLIST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -185,19 +185,22 @@
             ".mbr-section-lead B": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#efefef",
+              "color": "#ffffff",
               "font-size": "24px",
               "text-align": "center"
             },
             ".mbr-section-title SPAN": {
               "color": "#fac51c"
+            },
+            ".btn": {
+              "font-size": "24px"
             }
           },
           "_anchor": "header1-0",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/image1-kopie-2000x1500.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -211,11 +214,11 @@
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "title": "<span style=\"line-height: 1.1;\">GERMAN FORSVARET&nbsp;</span><br>",
           "text": "<b>Started earlier and showed up at www.meesdorf.de (presented for free to the local patriotclub) and using trollic WIKIPEDIA and more openplattforms, this project now is having some more decent impact on the military-scene. CLOWN-BFGNET is an enemy, and still tries to snap our life and rawsources directly away. LAMER-USEUCOM is about to coop, but cannot differ between that clowns that play us. TROLL-MILRU sends just the orcz that LAMER-USEUCOM cannot detarn, because of it's special allyship with CLOWN-BFGNET since second worldwar. The Orcz are mostly CLOWN-BFGNET tarncapped and from sovjet-ruled grounds running in, while they play uber-german and want to have a female uber-german- while tricky using spare speech and &nbsp;US-Military and common World-Police tools and clothes! They try to convince their tricked partners in FOREIGN-FOX-ORK SWISS-ARMY style with long talking without any real point, but viewing a part of the reality and counting about goodness of themselves...</b><br><b> </b><br><b>Here our project comes to the show! We detarn with showing fotos and discussing with the unoriginal-BWEHR forces. If this leads to a success, a reality force is saved from trollz,lamerz,clownz and their orkz! At recruiting this style is needed, to differ between human efforts and tricky money-falsgreppers! The ebering non-stop orc-kissing tricks on our people make a broader audience, next to secretservice a \"needed counter-intelligence\" inevitable, to protect the born germanic will from destruction of allied-command...</b><br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://www.linkedin.com/in/rüdiger-müller-4b9988a8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>SHOW YOUR CEO-SUPPORT</a>"
         },
         {
           "_inherit": "features1",
@@ -454,7 +457,10 @@
               "color": "#ffffff"
             },
             "B": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "24px"
             }
           },
           "_anchor": "contacts2-4",
