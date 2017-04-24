@@ -6,26 +6,28 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c1c1c1",
-        "secondaryColor": "#bfcecb",
-        "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
+        "primaryColor": "#fac51c",
+        "secondaryColor": "#f3c649",
+        "successColor": "#000000",
+        "infoColor": "#000000",
         "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
-        "titleFont": "Montserrat",
-        "subtitleFont": "Lora",
-        "textFont": "Raleway",
-        "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
+        "dangerColor": "#f3c649",
+        "titleFont": "Open Sans",
+        "subtitleFont": "Open Sans",
+        "textFont": "Open Sans",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false,
         "isRtl": false
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5,
+    "uniqCompNum": 7,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/viking-battle-smallstamp-128x80.png",
-    "noImageResize": ""
+    "noImageResize": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-83965278-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
   },
   "pages": {
     "index.html": {
@@ -86,7 +88,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c1c1c1!important"
+              "color": "#fac51c!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -135,7 +137,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://rm1911meesdorfrangers.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GER-FORSVARET</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-0\">INTRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\">CONTENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-4\">POST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form2-3\">MAILINGLIST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-0\">INTRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\">CONTENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-4\">POST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form2-3\">MAILINGLIST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#feed-6\">NEWSSTREAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -157,7 +159,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "MIL-Copyright (C) 2017 / Forsvaret Deutschland AG (Internet-Arbeitsgemeinschaft)."
+          "text": "MIL-Copyright (C) 2017 / Forsvaret Deutschland AG (Internet-Arbeitsgemeinschaft)"
         },
         {
           "_tags": [
@@ -206,8 +208,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<span style=\"line-height: 1.1;\">GERMANIC FORSVARET&nbsp;</span><br><br>",
-          "text": "<b>NO TROLLZ/LAMERZ/JEWZ ALLOWED</b><br><b>STATUS: ACCEPTED</b><br><b><br></b><b>READY.</b><br><b>#<br></b><br><b><br></b><b><br></b><br>",
+          "title": "<span style=\"line-height: 1.1;\">GERMANY'S FORSVARET&nbsp;</span><br><br>",
+          "text": "<b>NO TROLLZ/LAMERZ/CLOWNZ ALLOWED</b><br><b>STATUS: INFORMED, ACCEPTED &amp; LOADING</b><br><b><br>Started early at www.meesdorf.de and using WIKIPEDIA and more openplattforms, this project now is having some more decent impact on the military-scene. BFGNET is an enemy, and still tries to snap our life and rawsources directly away. USEUCOM is about to coop, but cannot differ between that clowns that play us. MILRU sends just the clowns that USEUCOM cannot detarn, because of their special allyship since second worldwar. Here the project comes to the plan! Division Wiking from WorldWar2 can be seen as an organisational structure, while it's mostly CEO-ordered driven...</b><br><b><br></b><b>READY.</b><br><b>#<br></b><br><b><br></b><b><br></b><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -481,6 +483,31 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">JOIN OUR NEWSLETTER</a>"
+        },
+        {
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-6",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "youtube": "UCTxelte60FIsvqv1Fnwj74Q",
+            "facebook": "forsvaretdeutschland",
+            "twitter": "",
+            "google": "",
+            "postToLoad": "3",
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#2b0680",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f"
+          },
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
         }
       ]
     }
