@@ -1,7 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
+
+
 
 
 
@@ -424,21 +429,23 @@ h6,
 }
 #menu-0 .navbar-caption {
   color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
 }
 #menu-0 .navbar-toggler {
-  color: #ffffff;
+  color: #f3c649;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #ffffff;
+  color: #f3c649;
   font-family: 'Open Sans', sans-serif;
 }
 #menu-0 .link {
-  font-size: 0.75rem;
+  font-size: 1rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.083rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -463,7 +470,7 @@ h6,
   background: #282828;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #f3c649;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -475,7 +482,7 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-item[aria-expanded="true"] {
-  color: #fac51c!important;
+  color: #c1c1c1!important;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -485,29 +492,50 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #f3c649;
 }
 #footer1-2 P {
   color: #efefef;
 }
 #header1-0 .mbr-section-title {
-  color: #90a878;
+  color: #f7da64;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 84px;
+}
+#header1-0 .mbr-section-lead SPAN {
+  font-size: 14px;
+  font-family: 'Raleway', sans-serif;
+}
+#header1-0 .mbr-section-lead {
+  color: #41a85f;
 }
 #features2-1 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #90a878;
+  background-color: #000000;
 }
 #form1-2 .form-control-label {
   color: #28324e;
+}
+#contacts2-4 P {
+  color: #efefef;
+  font-size: 24px;
+}
+#contacts2-4 STRONG {
+  color: #ffffff;
+  font-size: 24px;
+  font-family: 'Open Sans', sans-serif;
+}
+#contacts2-4 SPAN {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  color: #41a85f;
+}
+#contacts2-4 B {
+  color: #f7da64;
 }
 #form2-3 .mbr-section-title {
   color: #fff;
 }
 #form2-3 .mbr-section-subtitle {
   color: #a0a0a0;
-}
-#contacts2-4 P {
-  color: #efefef;
-}
-#contacts2-4 STRONG {
-  color: #ffffff;
 }
