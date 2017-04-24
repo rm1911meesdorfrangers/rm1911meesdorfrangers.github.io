@@ -11,6 +11,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -510,6 +511,10 @@ h6,
 #header1-0 .mbr-section-lead {
   color: #41a85f;
 }
+#header1-0 .mbr-section-lead B {
+  font-family: 'Open Sans', sans-serif;
+  color: #c1c1c1;
+}
 #features2-1 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #000000;
 }
@@ -531,7 +536,7 @@ h6,
   color: #41a85f;
 }
 #contacts2-4 B {
-  color: #f7da64;
+  color: #000000;
 }
 #form2-3 .mbr-section-title {
   color: #fff;
