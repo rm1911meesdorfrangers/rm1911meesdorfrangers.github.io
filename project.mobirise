@@ -137,7 +137,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://rm1911meesdorfrangers.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GER-FORSVARET</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-0\">INTRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\">CONTENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-4\">POST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form2-3\">MAILINGLIST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#feed-6\">NEWSSTREAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-0\">INTRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\">CONTENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#feed-6\">NEWVIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-4\">POST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form2-3\">MAILINGLIST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -215,6 +215,31 @@
           "title": "<span style=\"line-height: 1.1;\">GERMANYS OWN FORSVARET&nbsp;</span><br><br>",
           "text": "<b>NO TROLLZ/LAMERZ/CLOWNZ ALLOWED</b><br><b>STATUS: INFORMED, ACCEPTED &amp; LOADING</b><br><b><br>Started early at www.meesdorf.de and using WIKIPEDIA and more openplattforms, this project now is having some more decent impact on the military-scene. BFGNET is an enemy, and still tries to snap our life and rawsources directly away. USEUCOM is about to coop, but cannot differ between that clowns that play us. MILRU sends just the clowns that USEUCOM cannot detarn, because of their special allyship with BFGNET since second worldwar. The Trollz are mostly BFGNET-tarncapped and from Sovjet-Grounds, while they play german and of course use US-Military and common Police Tools and Clothes! Here the project comes to the plan! We detarn and replace with the Original Force. Then a real force is again on the streets- and in the houses... What you ordered, shall be what you get! We fight mostly on digitalgrounds in nord-secretservices manner!</b><br><b><br></b><b>READY.</b><br><b>#<br></b><br><b><br></b><b><br></b><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-6",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "youtube": "UCTxelte60FIsvqv1Fnwj74Q",
+            "facebook": "",
+            "twitter": "",
+            "google": "",
+            "postToLoad": "1",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImageRadio": true,
+            "bgColor": "#2b0680",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f"
+          },
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
         },
         {
           "_inherit": "features1",
@@ -487,31 +512,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">JOIN OUR NEWSLETTER</a>"
-        },
-        {
-          "alias": "social-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-6",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "youtube": "UCTxelte60FIsvqv1Fnwj74Q",
-            "facebook": "forsvaretdeutschland",
-            "twitter": "",
-            "google": "",
-            "postToLoad": "1",
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
-            "bgImageRadio": true,
-            "bgColor": "#2b0680",
-            "bgColorRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#7e9b9f"
-          },
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
         }
       ]
     }
