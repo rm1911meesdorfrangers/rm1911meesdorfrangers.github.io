@@ -26,7 +26,7 @@
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/viking-battle-smallstamp-128x80.png",
     "noImageResize": "",
-    "cookiesAlert": "This sites uses cookies from \"Google Analytics\"!",
+    "cookiesAlert": "This sites uses cookies from Google Analytics !",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-83965278-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
   },
   "pages": {
@@ -186,7 +186,8 @@
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "color": "#efefef",
-              "font-size": "32px"
+              "font-size": "24px",
+              "text-align": "center"
             },
             ".mbr-section-title SPAN": {
               "color": "#fac51c"
@@ -197,7 +198,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/viking-battle-smallstamp-2000x1250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/image1-kopie-2000x1500.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -212,34 +213,9 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<span style=\"line-height: 1.1;\">GERMANYS OWN FORSVARET&nbsp;</span><br><br>",
-          "text": "<b>NO TROLLZ/LAMERZ/CLOWNZ ALLOWED</b><br><b>STATUS: INFORMED, ACCEPTED &amp; LOADING</b><br><b><br>Started early at www.meesdorf.de and using WIKIPEDIA and more openplattforms, this project now is having some more decent impact on the military-scene. BFGNET is an enemy, and still tries to snap our life and rawsources directly away. USEUCOM is about to coop, but cannot differ between that clowns that play us. MILRU sends just the clowns that USEUCOM cannot detarn, because of their special allyship with BFGNET since second worldwar. The Trollz are mostly BFGNET-tarncapped and from Sovjet-Grounds, while they play german and of course use US-Military and common Police Tools and Clothes! Here the project comes to the plan! We detarn and replace with the Original Force. Then a real force is again on the streets- and in the houses... What you ordered, shall be what you get! We fight mostly on digitalgrounds in nord-secretservices manner!</b><br><b><br></b><b>READY.</b><br><b>#<br></b><br><b><br></b><b><br></b><br>",
+          "title": "<span style=\"line-height: 1.1;\">GERMAN FORSVARET&nbsp;</span><br><br>",
+          "text": "<b>NO TROLLZ/LAMERZ/CLOWNZ/ORIENT/ETC... ALLOWED</b><br><b>STATUS: INFORMED, ACCEPTED &amp; LOADING</b><br><b>BACKGROUND:&nbsp;Started early at www.meesdorf.de and using WIKIPEDIA and more openplattforms, this project now is having some more decent impact on the military-scene. BFGNET is an enemy, and still tries to snap our life and rawsources directly away. USEUCOM is about to coop, but cannot differ between that clowns that play us. MILRU sends just the clowns that USEUCOM cannot detarn, because of their special allyship with BFGNET since second worldwar. The Trollz are mostly BFGNET-tarncapped and from Sovjet-Grounds, while they play german and of course use US-Military and common Police Tools and Clothes! Here the project comes to the plan! We detarn and replace with the Original Force. Then a real force is again on the streets- and in the houses... What you ordered, shall be what you get! We fight mostly on digitalgrounds in nord-secretservices manner!</b><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
-        },
-        {
-          "alias": "social-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-6",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "youtube": "UCTxelte60FIsvqv1Fnwj74Q",
-            "facebook": "",
-            "twitter": "",
-            "google": "",
-            "postToLoad": "1",
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
-            "bgImageRadio": true,
-            "bgColor": "#2b0680",
-            "bgColorRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#7e9b9f"
-          },
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
         },
         {
           "_inherit": "features1",
@@ -283,8 +259,9 @@
               "name": "instagram",
               "family": "socicon",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "https://www.instagram.com/ruediger_mueller/",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title1": "INSTAGRAM",
@@ -298,8 +275,9 @@
               "name": "facebook",
               "family": "socicon",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "http://www.facebook.com/forsvaretdeutschland",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title2": "FACEBOOK",
@@ -313,8 +291,9 @@
               "name": "youtube",
               "family": "socicon",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "https://www.youtube.com/channel/UCTxelte60FIsvqv1Fnwj74Q/videos?view=0&flow=grid&sort=p",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title3": "YOUTUBE",
@@ -363,6 +342,31 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-6",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "youtube": "UCTxelte60FIsvqv1Fnwj74Q",
+            "facebook": "",
+            "twitter": "",
+            "google": "",
+            "postToLoad": "1",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImageRadio": true,
+            "bgColor": "#2b0680",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f"
+          },
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
         },
         {
           "_tags": [

@@ -509,7 +509,8 @@ h6,
 #header1-0 .mbr-section-lead B {
   font-family: 'Open Sans', sans-serif;
   color: #efefef;
-  font-size: 32px;
+  font-size: 24px;
+  text-align: center;
 }
 #header1-0 .mbr-section-title SPAN {
   color: #fac51c;
