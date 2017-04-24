@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "My Site",
+    "name": "Forsvaret Deutschland 2017",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,14 +23,16 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 5,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/viking-battle-smallstamp-128x80.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "WWW.FORSVARET.DE / MIL",
+        "meta_descr": "INFOS ABOUT THE FORSVARET DEUTSCHLAND ARBEITSGEMEINSCHAFT.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -111,7 +113,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -119,10 +121,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/viking-battle-smallstamp-204x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://www.forsvaret.de",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -153,7 +157,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "MIL-Copyright (C) 2017, &nbsp;Forsvaret Deutschland AG (Arbeitsgemeinschaft)."
+          "text": "MIL-Copyright (C) 2017 / Forsvaret Deutschland AG (Internet-Arbeitsgemeinschaft)."
         },
         {
           "_tags": [
@@ -202,8 +206,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<span style=\"line-height: 1.1;\">GERMANIC FORSVARET&nbsp;</span><br><span style=\"line-height: 1.1;\"><br></span><br>",
-          "text": "<b>NO TROLLZ/LAMERZ/JEWZ ALLOWED</b><br><br><b>STATUS: ACCEPTED</b><br><b><br></b><b>loading...<br></b><br><b><br></b><b><br></b><br>",
+          "title": "<span style=\"line-height: 1.1;\">GERMANIC FORSVARET&nbsp;</span><br><br>",
+          "text": "<b>NO TROLLZ/LAMERZ/JEWZ ALLOWED</b><br><b>STATUS: ACCEPTED</b><br><b><br></b><b>READY.</b><br><b>#<br></b><br><b><br></b><b><br></b><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
         },
         {
