@@ -26,7 +26,7 @@
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/viking-battle-smallstamp-128x80.png",
     "noImageResize": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "cookiesAlert": "This sites uses cookies from \"Google Analytics\"!",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-83965278-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
   },
   "pages": {
@@ -185,7 +185,8 @@
             ".mbr-section-lead B": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#c1c1c1"
+              "color": "#c1c1c1",
+              "font-size": "32px"
             }
           },
           "_anchor": "header1-0",
@@ -208,7 +209,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<span style=\"line-height: 1.1;\">GERMANY'S FORSVARET&nbsp;</span><br><br>",
+          "title": "<span style=\"line-height: 1.1;\">GERMANYS OWN FORSVARET&nbsp;</span><br><br>",
           "text": "<b>NO TROLLZ/LAMERZ/CLOWNZ ALLOWED</b><br><b>STATUS: INFORMED, ACCEPTED &amp; LOADING</b><br><b><br>Started early at www.meesdorf.de and using WIKIPEDIA and more openplattforms, this project now is having some more decent impact on the military-scene. BFGNET is an enemy, and still tries to snap our life and rawsources directly away. USEUCOM is about to coop, but cannot differ between that clowns that play us. MILRU sends just the clowns that USEUCOM cannot detarn, because of their special allyship since second worldwar. Here the project comes to the plan! Division Wiking from WorldWar2 can be seen as an organisational structure, while it's mostly CEO-ordered driven...</b><br><b><br></b><b>READY.</b><br><b>#<br></b><br><b><br></b><b><br></b><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
         },
