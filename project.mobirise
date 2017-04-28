@@ -1,17 +1,17 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "Forsvaret Deutschland 2017",
+    "name": "ForsvaretDeutschland 17",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#fac51c",
-        "secondaryColor": "#f3c649",
+        "primaryColor": "#41a85f",
+        "secondaryColor": "#41a85f",
         "successColor": "#000000",
         "infoColor": "#000000",
-        "warningColor": "#f3c649",
-        "dangerColor": "#f3c649",
+        "warningColor": "#41a85f",
+        "dangerColor": "#41a85f",
         "titleFont": "Open Sans",
         "subtitleFont": "Open Sans",
         "textFont": "Open Sans",
@@ -24,17 +24,18 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 7,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/viking-battle-smallstamp-128x80.png",
+    "favicon": "@PROJECT_PATH@/assets/images/bildschirmfoto-2017-04-28-um-16-128x52-1.png",
     "noImageResize": "",
-    "cookiesAlert": "This sites uses cookies from Google Analytics !",
-    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-83965278-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
+    "cookiesAlert": "According to the EU-LAW, i have to inform you about usage of data-cookies on this website. Thanks!",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-83965278-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "WWW.FORSVARET.DE / MIL",
-        "meta_descr": "INFOS ABOUT THE FORSVARET DEUTSCHLAND ARBEITSGEMEINSCHAFT.",
+        "title": "Forsvaret Deutschland HQ",
+        "meta_descr": "Here you find detailed infos about the actions of Forsvaret Deutschland.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -47,38 +48,38 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "24px"
             },
             ".navbar-toggler": {
-              "color": "#f3c649"
+              "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#f3c649",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-family": "'Open Sans', sans-serif"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#1b044f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#260571!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2b0680"
             },
             ".bg-color.transparent .link": {
-              "color": "#f3c649",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -88,7 +89,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#fac51c!important"
+              "color": "#41a85f!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -98,24 +99,24 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#f3c649"
+              "background-color": "#ffffff"
             }
           },
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#282828",
-            "fontSize": "1",
+            "bgColor": "#2b0680",
+            "fontSize": "1.15",
             "fontName": {
-              "name": "Open Sans",
-              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "css": "'Open Sans', sans-serif"
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#f3c649",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -123,7 +124,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/viking-battle-smallstamp-204x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/viking-battle_smallstamp-204x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://www.forsvaret.de",
@@ -136,14 +137,14 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://rm1911meesdorfrangers.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GER+FORSVARET</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-0\">INTRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\">CONTENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#feed-6\">LATEST VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\">YOUR FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-4\">POST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form2-3\">JOIN MAILINGLIST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://rm1911meesdorfrangers.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FORSVARET DEUTSCHLAND</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\"><p>STREAMS</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form2-3\">MAILINGLIST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-4\">ADRESS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#feed-6\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-0\">START</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#efefef"
+              "color": "#ffffff"
             }
           },
           "_anchor": "footer1-2",
@@ -153,13 +154,13 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#2969b0",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "MIL-Copyright (C) 2017 / Forsvaret Deutschland AG (non-commercial deciding internet-workgroup)"
+          "text": "Copyright 2017 @ Forsvaret Deutschland AG"
         },
         {
           "_tags": [
@@ -168,11 +169,11 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#f7da64",
+              "color": "#efefef",
               "text-align": "center",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "84px"
+              "font-size": "60px"
             },
             ".mbr-section-lead SPAN": {
               "font-size": "14px",
@@ -190,7 +191,8 @@
               "text-align": "center"
             },
             ".mbr-section-title SPAN": {
-              "color": "#fac51c"
+              "color": "#90a878",
+              "font-size": "72px"
             },
             ".btn": {
               "font-size": "24px"
@@ -201,7 +203,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/image1-kopie-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/image1-2000x1500.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -209,16 +211,41 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.3",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"line-height: 1.1;\">GERMAN FORSVARET&nbsp;</span><br>",
-          "text": "<b>Started earlier and showed up at www.meesdorf.de (presented for free to the local patriotclub) and using trollic WIKIPEDIA and more openplattforms, this project now is having some more decent impact on the military-scene. CLOWN-BFGNET is an enemy, and still tries to snap our life and rawsources directly away. LAMER-USEUCOM is about to coop, but cannot differ between that clowns that play us. TROLL-MILRU sends just the orcz that LAMER-USEUCOM cannot detarn, because of it's special allyship with CLOWN-BFGNET since second worldwar. The Orcz are mostly CLOWN-BFGNET tarncapped and from sovjet-ruled grounds running in, while they play uber-german and want to have a female uber-german- while tricky using spare speech and &nbsp;US-Military and common World-Police tools and clothes! They try to convince their tricked partners in FOREIGN-FOX-ORK SWISS-ARMY style with long talking without any real point, but viewing a part of the reality and counting about goodness of themselves...</b><br><b> </b><br><b>Here our project comes to the show! We detarn with showing fotos and discussing with the unoriginal-BWEHR forces. If this leads to a success, a reality force is saved from trollz,lamerz,clownz and their orkz! At recruiting this style is needed, to differ between human efforts and tricky money-falsgreppers! The ebering non-stop orc-kissing tricks on our people make a broader audience, next to secretservice a \"needed counter-intelligence\" inevitable, to protect the born germanic will from destruction of allied-command...</b><br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://www.linkedin.com/in/rüdiger-müller-4b9988a8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>SHOW US YOUR SUPPORTEFFORTS AND EARN A WORKPLACE</a>"
+          "title": "<span style=\"line-height: 1.1;\"><br></span>\"VELKOMMEN. SE DEG RUNDT!\"<br><br>\"DON'T HESITATE TO CONTACT ME.\"<br><br><span style=\"line-height: 1.1;\">FORSVARETDEUTSCHLAND&nbsp;</span><span style=\"line-height: 1.1;\"><br></span><br>",
+          "text": "",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://www.linkedin.com/in/rüdiger-müller-4b9988a8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>CONTACT THE CEO FOR A PERSONAL CHAT</a>"
+        },
+        {
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-6",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "youtube": "UCTxelte60FIsvqv1Fnwj74Q",
+            "facebook": "",
+            "twitter": "",
+            "google": "",
+            "postToLoad": "1",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#90a878",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f"
+          },
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
         },
         {
           "_inherit": "features1",
@@ -228,7 +255,7 @@
           "_name": "features2",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#000000"
+              "background-color": "#90a878"
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
               "color": "#ffffff"
@@ -239,26 +266,26 @@
           },
           "_anchor": "features2-1",
           "_params": {
-            "columnsColor": "#000000",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "columnsColor": "#90a878",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#90a878",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.7",
             "overlayColor": "#222",
             "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
-            "ShowTexts": true,
+            "ShowTexts": false,
             "showButtons": true
           },
           "media1": {
@@ -269,14 +296,14 @@
               "family": "socicon",
               "active": true,
               "link": "https://www.instagram.com/ruediger_mueller/",
-              "size": 0,
-              "newWindow": false
+              "size": "64",
+              "newWindow": true
             }
           },
           "title1": "INSTAGRAM",
           "subtitle1": "INSTAGRAM",
-          "caption1": "I UPDATE ALMOST DAILY MORE THEN SOME PICTURES, BUT REAL CONTENT THROUGH INTELLIGENT PICTURE MAKING!",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.instagram.com/ruediger_mueller/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PICTURESTREAM</a>",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.instagram.com/ruediger_mueller/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STREAMLINK I</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -285,14 +312,14 @@
               "family": "socicon",
               "active": true,
               "link": "http://www.facebook.com/forsvaretdeutschland",
-              "size": 0,
-              "newWindow": false
+              "size": "64",
+              "newWindow": true
             }
           },
           "title2": "FACEBOOK",
           "subtitle2": "FACEBOOKSITE",
-          "caption2": "I MAKE THE ARTICLES READY ENOUGH- TO HAVE A DECENT OVERVIEW OF MY LATEST ACTIONS.",
-          "button2": "<a data-app-btn=\"true\" href=\"http://www.facebook.com/forsvaretdeutschland\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ARTICLESTREAM</a>",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.facebook.com/forsvaretdeutschland\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STREAMLINK F</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -301,14 +328,14 @@
               "family": "socicon",
               "active": true,
               "link": "https://www.youtube.com/channel/UCTxelte60FIsvqv1Fnwj74Q/videos?view=0&flow=grid&sort=p",
-              "size": 0,
-              "newWindow": false
+              "size": "32",
+              "newWindow": true
             }
           },
           "title3": "YOUTUBE",
           "subtitle3": "YOUTUBE",
-          "caption3": "I UPLOAD QUALITY MOVIES UP, THAT I HAVE TAKEN WHILE HAVING A SPECIAL MOMENT, INSIDE A SURROUNDING.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.youtube.com/channel/UCTxelte60FIsvqv1Fnwj74Q/videos?view=0&amp;flow=grid&amp;sort=p\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIDEOSTREAM</a>",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.youtube.com/channel/UCTxelte60FIsvqv1Fnwj74Q/videos?view=0&amp;flow=grid&amp;sort=p\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STREAMLINK Y</a>",
           "media4": {
             "iconFont": {
               "active": true,
@@ -353,29 +380,48 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "alias": "social-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-6",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "youtube": "UCTxelte60FIsvqv1Fnwj74Q",
-            "facebook": "",
-            "twitter": "",
-            "google": "",
-            "postToLoad": "1",
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
-            "bgImageRadio": true,
-            "bgColor": "#2b0680",
-            "bgColorRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#7e9b9f"
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
           },
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-3",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showSubTitle": false
+          },
+          "title": "SUBSCRIBE FORM",
+          "subtitle": "Subscribe to our Newsletter",
+          "form": {
+            "action": "rm1911@icloud.com",
+            "alerts": {
+              "success": "CONFIRMED!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "YOUR EMAIL-ADRESS"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">EMAIL-INFOSYSTEM</a>"
         },
         {
           "_tags": [
@@ -390,12 +436,12 @@
           "_anchor": "form1-2",
           "_params": {
             "labelsColor": "#28324e",
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1328.jpg",
-            "bgColor": "#c1c1c1",
+            "bgColor": "#a38f84",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -428,11 +474,11 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "FEEDBACK MESSAGE"
+                "customTitle": "POSTING"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">EMAIL DATA TO CEO</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT DATA</a>"
         },
         {
           "_tags": [
@@ -470,64 +516,20 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#c0a375",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": "0.5",
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "Citec, Bielefeld",
-              "placeId": "ChIJ585iOq4iukcRtd0aqFU8Spo",
+              "address": "Zitterweg 17, 49328 Melle",
+              "placeId": "ChIJrXEkch0DukcRpgGbZ6NXyMQ",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<b style=\"line-height: 1.5;\">Chief Executive Officer in Command</b><br><span style=\"line-height: 1.5;\"><br></span><span style=\"line-height: 1.5;\">Rüdiger Müller</span><br><span style=\"line-height: 1.5;\">49 - 160 977 19804</span><span style=\"line-height: 1.5;\"><br></span><br><span style=\"line-height: 1.5;\">Zitterweg 17</span><br><span style=\"line-height: 1.5;\">49328 Melle</span><br><span style=\"line-height: 1.5;\">Germany 2</span><span style=\"line-height: 1.5;\"><br></span><br>",
+          "text1": "<p><span style=\"line-height: 1.5;\">Rüdiger Müller</span><br><span style=\"line-height: 1.5;\">+49 (0) 160 977 19804</span><br><span style=\"line-height: 1.5;\">rmueller@techfak</span><span style=\"line-height: 1.5;\">.uni-bielefeld.de<br></span><br><span style=\"line-height: 1.5;\">Zitterweg 17</span><br><span style=\"line-height: 1.5;\">49328 Melle</span><br><span style=\"line-height: 1.5;\">Germany</span><span style=\"line-height: 1.5;\"><br></span><span style=\"line-height: 1.5;\"><br></span><br></p>",
           "text2": ""
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form2",
-          "_anchor": "form2-3",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showSubTitle": false
-          },
-          "title": "SUBSCRIBE FORM",
-          "subtitle": "Subscribe to our Newsletter",
-          "form": {
-            "action": "rm1911@icloud.com",
-            "alerts": {
-              "success": "THANKS. WE WILL DELIVER SO MUCH E-MAIL AS IT IS NEEDED, DIRECTLY TO YOUR ADRESS!"
-            },
-            "fields": {
-              "email": {
-                "title": "Email",
-                "customTitle": "PLEASE SUBSCRIBE WITH YOUR EMAIL-ADRESS TO OUR NEWSLETTER"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">JOIN OUR NEWSLETTER</a>"
         }
       ]
     }
