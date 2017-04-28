@@ -297,7 +297,8 @@
               "active": true,
               "link": "https://www.instagram.com/ruediger_mueller/",
               "size": "64",
-              "newWindow": true
+              "newWindow": true,
+              "color": "#7ac673"
             }
           },
           "title1": "INSTAGRAM",
@@ -313,7 +314,8 @@
               "active": true,
               "link": "http://www.facebook.com/forsvaretdeutschland",
               "size": "64",
-              "newWindow": true
+              "newWindow": true,
+              "color": "#7ac673"
             }
           },
           "title2": "FACEBOOK",
@@ -328,8 +330,9 @@
               "family": "socicon",
               "active": true,
               "link": "https://www.youtube.com/channel/UCTxelte60FIsvqv1Fnwj74Q/videos?view=0&flow=grid&sort=p",
-              "size": "32",
-              "newWindow": true
+              "size": "64",
+              "newWindow": true,
+              "color": "#7ac673"
             }
           },
           "title3": "YOUTUBE",
