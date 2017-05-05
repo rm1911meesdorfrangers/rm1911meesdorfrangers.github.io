@@ -13,6 +13,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -518,6 +519,7 @@ h6,
 #header1-0 .mbr-section-title SPAN {
   color: #2969b0;
   font-size: 84px;
+  font-family: 'Roboto Slab', serif;
 }
 #header1-0 .btn {
   font-size: 24px;
