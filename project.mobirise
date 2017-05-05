@@ -24,9 +24,9 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 7,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/bildschirmfoto-2017-04-28-um-16-128x52-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/so-its-a-no-128x110.png",
     "noImageResize": "",
-    "cookiesAlert": "According to the EU-LAW, i have to inform you about usage of data-cookies on this website. Thanks!",
+    "cookiesAlert": "COOKIES ALERT",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-83965278-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "path": "@PROJECT_PATH@"
   },
@@ -53,10 +53,10 @@
               "font-size": "24px"
             },
             ".navbar-toggler": {
-              "color": "#41a85f"
+              "color": "#2969b0"
             },
             ".link, .dropdown-item": {
-              "color": "#41a85f",
+              "color": "#2969b0",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
               "font-family": "'Roboto Slab', serif"
             },
@@ -79,7 +79,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#41a85f",
+              "color": "#2969b0",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -99,7 +99,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#41a85f"
+              "background-color": "#2969b0"
             }
           },
           "_name": "menu",
@@ -112,7 +112,7 @@
               "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
               "css": "'Roboto Slab', serif"
             },
-            "fontColor": "#41a85f",
+            "fontColor": "#2969b0",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -160,7 +160,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "2017, ForsvaretDE (project maintainer rm1911)"
+          "text": "2017, wwwFORSVARETde, (project maintainer: rm1911)"
         },
         {
           "_tags": [
@@ -191,7 +191,7 @@
               "text-align": "center"
             },
             ".mbr-section-title SPAN": {
-              "color": "#41a85f",
+              "color": "#2969b0",
               "font-size": "84px"
             },
             ".btn": {
@@ -220,7 +220,7 @@
           },
           "title": "<span style=\"line-height: 1.1;\">FORSVARET DEUTSCHLAND</span><br><br>",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://www.linkedin.com/in/rüdiger-müller-4b9988a8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>CONTACT THE CEO FOR A PERSONAL CHAT</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://www.linkedin.com/in/rüdiger-müller-4b9988a8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>CONTACT PROJECT MAINTAINER</a>"
         },
         {
           "_inherit": "features1",
@@ -365,7 +365,8 @@
           "_styles": {
             "P": {
               "color": "#efefef",
-              "font-size": "24px"
+              "font-size": "24px",
+              "text-align": "center"
             },
             "STRONG": {
               "color": "#ffffff",
@@ -405,7 +406,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<p><span style=\"line-height: 1.5;\">Rüdiger Müller</span><br><span style=\"line-height: 1.5;\">+49 (0) 160 977 19804</span><br><span style=\"line-height: 1.5;\">rm1911@icloud.com</span><span style=\"line-height: 1.5;\"><br></span><br><span style=\"line-height: 1.5;\">Zitterweg 17</span><br><span style=\"line-height: 1.5;\">49328 Melle</span><br><span style=\"line-height: 1.5;\">Germany</span><span style=\"line-height: 1.5;\"><br></span><span style=\"line-height: 1.5;\"><br></span><br></p>",
+          "text1": "<p><span style=\"line-height: 1.5;\">Rüdiger Müller</span><br><span style=\"line-height: 1.5;\">Zitterweg 17</span><br><span style=\"line-height: 1.5;\">49328 Melle</span><br><span style=\"line-height: 1.5;\">Germany</span></p><br><p>+49 (0) 160 977 19804<br>rm1911@icloud.com<span style=\"line-height: 1.5;\"><br></span><span style=\"line-height: 1.5;\"><br></span><span style=\"line-height: 1.5;\"><br></span><br></p>",
           "text2": ""
         },
         {

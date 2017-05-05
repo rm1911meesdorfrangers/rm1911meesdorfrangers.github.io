@@ -432,11 +432,11 @@ h6,
   font-size: 24px;
 }
 #menu-0 .navbar-toggler {
-  color: #41a85f;
+  color: #2969b0;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #41a85f;
+  color: #2969b0;
   font-family: 'Roboto Slab', serif;
 }
 #menu-0 .link {
@@ -469,7 +469,7 @@ h6,
   background: #ffffff;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #41a85f;
+  color: #2969b0;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -491,7 +491,7 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #41a85f;
+  background-color: #2969b0;
 }
 #footer1-2 P {
   color: #ffffff;
@@ -516,7 +516,7 @@ h6,
   text-align: center;
 }
 #header1-0 .mbr-section-title SPAN {
-  color: #41a85f;
+  color: #2969b0;
   font-size: 84px;
 }
 #header1-0 .btn {
@@ -534,6 +534,7 @@ h6,
 #contacts2-4 P {
   color: #efefef;
   font-size: 24px;
+  text-align: center;
 }
 #contacts2-4 STRONG {
   color: #ffffff;
