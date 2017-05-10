@@ -6,12 +6,12 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#2969b0",
-        "secondaryColor": "#2969b0",
+        "primaryColor": "#28324e",
+        "secondaryColor": "#28324e",
         "successColor": "#000000",
         "infoColor": "#000000",
-        "warningColor": "#2969b0",
-        "dangerColor": "#2969b0",
+        "warningColor": "#28324e",
+        "dangerColor": "#28324e",
         "titleFont": "Open Sans",
         "subtitleFont": "Open Sans",
         "textFont": "Open Sans",
@@ -53,10 +53,10 @@
               "font-size": "24px"
             },
             ".navbar-toggler": {
-              "color": "#2969b0"
+              "color": "#28324e"
             },
             ".link, .dropdown-item": {
-              "color": "#2969b0",
+              "color": "#28324e",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
               "font-family": "'Roboto Slab', serif"
             },
@@ -70,16 +70,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#b3b3b3"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#c4c4c4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#cccccc"
             },
             ".bg-color.transparent .link": {
-              "color": "#2969b0",
+              "color": "#28324e",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -89,7 +89,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#2969b0!important"
+              "color": "#28324e!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -99,20 +99,20 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2969b0"
+              "background-color": "#28324e"
             }
           },
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#cccccc",
             "fontSize": "1.15",
             "fontName": {
               "name": "Roboto Slab",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
               "css": "'Roboto Slab', serif"
             },
-            "fontColor": "#2969b0",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -137,14 +137,14 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://rm1911meesdorfrangers.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">w3FORSVARETde</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\">STREAMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-4\">IMPRINT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#feed-6\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://rm1911meesdorfrangers.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">/. w3forsvaretde</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\">MEDIA STREAMING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-4\">IMPRINT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\">MESSAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#feed-6\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#ffffff"
+              "color": "#28324e"
             }
           },
           "_anchor": "footer1-2",
@@ -154,13 +154,13 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#28324e",
+            "bgColor": "#cccccc",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "2017, wwwFORSVARETde, (project maintainer: rm1911)"
+          "text": "made possible by personal efforts. shown to the public and connected by personal efforts. Rüdiger Müller ( 2017 )"
         },
         {
           "_tags": [
@@ -191,7 +191,7 @@
               "text-align": "center"
             },
             ".mbr-section-title SPAN": {
-              "color": "#2969b0",
+              "color": "#ffffff",
               "font-size": "84px",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
@@ -205,7 +205,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/foto-am-10-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -220,7 +220,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"line-height: 1.1;\">FORSVARET DEUTSCHLAND</span><br><br>",
+          "title": "<span style=\"line-height: 1.1;\">FORSVARET DEUTSCHLAND</span><br><br><br><br><br>",
           "text": "",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://www.linkedin.com/in/rüdiger-müller-4b9988a8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>CONTACT PROJECT MAINTAINER</a>"
         },
@@ -232,7 +232,7 @@
           "_name": "features2",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#28324e"
+              "background-color": "#c1c1c1"
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
               "color": "#ffffff"
@@ -243,13 +243,13 @@
           },
           "_anchor": "features2-1",
           "_params": {
-            "columnsColor": "#28324e",
+            "columnsColor": "#c1c1c1",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
-            "bgColor": "#28324e",
+            "bgColor": "#c1c1c1",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -275,7 +275,7 @@
               "link": "https://www.instagram.com/ruediger_mueller/",
               "size": "64",
               "newWindow": true,
-              "color": "#c1c1c1"
+              "color": "#28324e"
             }
           },
           "title1": "INSTAGRAM",
@@ -292,7 +292,7 @@
               "link": "http://www.facebook.com/forsvaretdeutschland",
               "size": "64",
               "newWindow": true,
-              "color": "#c1c1c1"
+              "color": "#28324e"
             }
           },
           "title2": "FACEBOOK",
@@ -309,7 +309,7 @@
               "link": "https://www.youtube.com/channel/UCTxelte60FIsvqv1Fnwj74Q/videos?view=0&flow=grid&sort=p",
               "size": "64",
               "newWindow": true,
-              "color": "#c1c1c1"
+              "color": "#28324e"
             }
           },
           "title3": "YOUTUBE",
@@ -366,7 +366,7 @@
           "_name": "contacts2",
           "_styles": {
             "P": {
-              "color": "#efefef",
+              "color": "#28324e",
               "font-size": "24px",
               "text-align": "center"
             },
@@ -396,7 +396,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#28324e",
+            "bgColor": "#cccccc",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": "0.5",
@@ -418,18 +418,18 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#ffffff"
+              "color": "#28324e"
             }
           },
           "_anchor": "form1-2",
           "_params": {
-            "labelsColor": "#ffffff",
+            "labelsColor": "#28324e",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1328.jpg",
-            "bgColor": "#28324e",
+            "bgColor": "#cccccc",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
