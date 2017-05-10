@@ -191,7 +191,7 @@
               "text-align": "center"
             },
             ".mbr-section-title SPAN": {
-              "color": "#ffffff",
+              "color": "#cccccc",
               "font-size": "84px",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
