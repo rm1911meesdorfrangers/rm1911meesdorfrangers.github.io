@@ -1,15 +1,15 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "ForsvaretDeutschland 17",
+    "name": "ForsvaretDeutschland Webproject",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#28324e",
-        "secondaryColor": "#28324e",
-        "successColor": "#000000",
-        "infoColor": "#000000",
+        "secondaryColor": "#fac51c",
+        "successColor": "#28324e",
+        "infoColor": "#28324e",
         "warningColor": "#28324e",
         "dangerColor": "#28324e",
         "titleFont": "Open Sans",
@@ -24,9 +24,9 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 7,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/so-its-a-no-128x110.png",
+    "favicon": "@PROJECT_PATH@/assets/images/bildschirmfoto-2017-05-10-um-17-128x109.png",
     "noImageResize": "",
-    "cookiesAlert": "COOKIES ALERT",
+    "cookiesAlert": "Notice: This webpage uses cookies!",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-83965278-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "path": "@PROJECT_PATH@"
   },
@@ -34,8 +34,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "wwwFORSVARETde project",
-        "meta_descr": "Landing Page of Forsvaret Deutschland",
+        "title": "Forsvaret Deutschland Project",
+        "meta_descr": "Forsvaret Deutschland engages in secret-military defense-services.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -70,13 +70,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#deaa05"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#fac10d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#fac51c"
             },
             ".bg-color.transparent .link": {
               "color": "#28324e",
@@ -105,7 +105,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#cccccc",
+            "bgColor": "#fac51c",
             "fontSize": "1.15",
             "fontName": {
               "name": "Roboto Slab",
@@ -137,7 +137,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://rm1911meesdorfrangers.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">/. w3forsvaretde</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://rm1911meesdorfrangers.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">W3/FORSVARET/DE</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\">MEDIA STREAMING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-4\">IMPRINT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\">MESSAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#feed-6\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -160,7 +160,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "made possible by personal efforts. shown to the public and connected by personal efforts. Rüdiger Müller ( 2017 )"
+          "text": "Rüdiger Müller ( 2017 )"
         },
         {
           "_tags": [
@@ -222,7 +222,7 @@
           },
           "title": "<span style=\"line-height: 1.1;\">FORSVARET DEUTSCHLAND</span><br><br><br><br><br>",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://www.linkedin.com/in/rüdiger-müller-4b9988a8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>CONTACT PROJECT MAINTAINER</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/rüdiger-müller-4b9988a8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>CONNECT</a>"
         },
         {
           "_inherit": "features1",
@@ -278,10 +278,10 @@
               "color": "#28324e"
             }
           },
-          "title1": "INSTAGRAM",
+          "title1": "VIEW",
           "subtitle1": "INSTAGRAM",
           "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.instagram.com/ruediger_mueller/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STREAM I</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.instagram.com/ruediger_mueller/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INSTAGRAMSTREAM</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -295,10 +295,10 @@
               "color": "#28324e"
             }
           },
-          "title2": "FACEBOOK",
+          "title2": "DECIDE",
           "subtitle2": "FACEBOOKSITE",
           "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"http://www.facebook.com/forsvaretdeutschland\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STREAM F</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.facebook.com/forsvaretdeutschland\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FACEBOOKSTREAM</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -312,10 +312,10 @@
               "color": "#28324e"
             }
           },
-          "title3": "YOUTUBE",
+          "title3": "WATCH",
           "subtitle3": "YOUTUBE",
           "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.youtube.com/channel/UCTxelte60FIsvqv1Fnwj74Q/videos?view=0&amp;flow=grid&amp;sort=p\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STREAM Y</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.youtube.com/channel/UCTxelte60FIsvqv1Fnwj74Q/videos?view=0&amp;flow=grid&amp;sort=p\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YOUTUBESTREAM</a>",
           "media4": {
             "iconFont": {
               "active": true,
@@ -408,7 +408,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<p><span style=\"line-height: 1.5;\">Rüdiger Müller</span><br><span style=\"line-height: 1.5;\">Zitterweg 17</span><br><span style=\"line-height: 1.5;\">49328 Melle</span><br><span style=\"line-height: 1.5;\">Germany</span></p><br><p>+49 (0) 160 977 19804<br>rm1911@icloud.com<span style=\"line-height: 1.5;\"><br></span><span style=\"line-height: 1.5;\"><br></span><span style=\"line-height: 1.5;\"><br></span><br></p>",
+          "text1": "<p><b><span style=\"line-height: 1.5;\">Rüdiger Müller</span><br><span style=\"line-height: 1.5;\">Zitterweg 17</span><br><span style=\"line-height: 1.5;\">49328 Melle</span><br><span style=\"line-height: 1.5;\">Germany</span></b></p><br><p>+49 (0) 160 977 19804<br>rm1911@icloud.com<br></p>",
           "text2": ""
         },
         {
