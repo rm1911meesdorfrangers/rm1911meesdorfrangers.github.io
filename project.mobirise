@@ -138,7 +138,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://rm1911meesdorfrangers.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">W3/FORSVARET/DE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\">MEDIA STREAMING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-4\">IMPRINT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\">MESSAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#feed-6\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\">MEDIA STREAMING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\">MESSAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-4\">IMPRINT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#feed-6\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -191,7 +191,7 @@
               "text-align": "center"
             },
             ".mbr-section-title SPAN": {
-              "color": "#cccccc",
+              "color": "#fac51c",
               "font-size": "84px",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
@@ -366,58 +366,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
-          "_styles": {
-            "P": {
-              "color": "#28324e",
-              "font-size": "20px",
-              "text-align": "left"
-            },
-            "STRONG": {
-              "color": "#ffffff",
-              "font-size": "24px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            "SPAN": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "20px",
-              "color": "#ffffff"
-            },
-            "B": {
-              "color": "#000000",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "24px"
-            }
-          },
-          "_anchor": "contacts2-4",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "address": "Zitterweg 17, 49328 Melle",
-              "placeId": "ChIJrXEkch0DukcRpgGbZ6NXyMQ",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<p><b>Rüdiger Müller<br>Zitterweg 17<br>49328 Melle<br>Germany<span style=\"color: rgb(40, 50, 78); font-size: 24px; line-height: 1.5;\"><br></span></b></p><br><p><span style=\"color: rgb(40, 50, 78); font-size: 24px; line-height: 1.5;\">+49 160 977 19804</span><br></p><p>rm1911@icloud.com<br></p>",
-          "text2": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
@@ -470,6 +418,58 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#28324e",
+              "font-size": "20px",
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "24px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px",
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#000000",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "contacts2-4",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Zitterweg 17, 49328 Melle",
+              "placeId": "ChIJrXEkch0DukcRpgGbZ6NXyMQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<p><b>Rüdiger Müller<br>Zitterweg 17<br>49328 Melle<br>Germany<span style=\"color: rgb(40, 50, 78); font-size: 24px; line-height: 1.5;\"><br></span></b></p><br><p><span style=\"color: rgb(40, 50, 78); font-size: 24px; line-height: 1.5;\">+49 160 977 19804</span><br></p><p>rm1911@icloud.com<br></p>",
+          "text2": ""
         }
       ]
     }

@@ -517,7 +517,7 @@ h6,
   text-align: center;
 }
 #header1-0 .mbr-section-title SPAN {
-  color: #cccccc;
+  color: #fac51c;
   font-size: 84px;
   font-family: 'Roboto Slab', serif;
 }
@@ -534,6 +534,9 @@ h6,
   color: #28324e;
 }
 #features2-1 .mbr-cards-col:nth-child(odd) .card-title {
+  color: #28324e;
+}
+#form1-2 .form-control-label {
   color: #28324e;
 }
 #contacts2-4 P {
@@ -555,7 +558,4 @@ h6,
   color: #000000;
   font-family: 'Open Sans', sans-serif;
   font-size: 24px;
-}
-#form1-2 .form-control-label {
-  color: #28324e;
 }
