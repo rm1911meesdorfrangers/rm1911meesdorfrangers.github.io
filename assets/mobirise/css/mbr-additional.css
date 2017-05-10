@@ -531,12 +531,15 @@ h6,
   color: #ffffff;
 }
 #features2-1 .mbr-cards-col:nth-child(even) .card-title {
-  color: #ffffff;
+  color: #28324e;
+}
+#features2-1 .mbr-cards-col:nth-child(odd) .card-title {
+  color: #28324e;
 }
 #contacts2-4 P {
   color: #28324e;
-  font-size: 24px;
-  text-align: center;
+  font-size: 20px;
+  text-align: left;
 }
 #contacts2-4 STRONG {
   color: #ffffff;
