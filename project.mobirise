@@ -160,7 +160,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Rüdiger Müller, rmueller@techfak.uni-bielefeld.de, 2017"
+          "text": "Rüdiger Müller, &nbsp;2017"
         },
         {
           "_tags": [
@@ -393,7 +393,7 @@
           "form": {
             "action": "rm1911@icloud.com",
             "alerts": {
-              "success": "Thanks for your message."
+              "success": "Your message was sent!"
             },
             "fields": {
               "name": {
