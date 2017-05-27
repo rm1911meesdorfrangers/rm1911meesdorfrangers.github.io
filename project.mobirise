@@ -161,7 +161,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Rüdiger Müller is reachable 24/7 and can communicate indirect with agencies. (direct contact only)"
+          "text": "Rüdiger Müller alone"
         },
         {
           "_tags": [
@@ -207,7 +207,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/image3-2000x1500.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/image1-2-2000x1500.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
