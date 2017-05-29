@@ -161,7 +161,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Rüdiger Müller alone"
+          "text": "Rüdiger Müller (the honest lion, bit by dragons in the falsing horsestable)"
         },
         {
           "_tags": [
@@ -207,7 +207,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/image1-2-2000x1500.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/foto-am-29-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
