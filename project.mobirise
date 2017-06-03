@@ -207,7 +207,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bildschirmfoto-2017-05-31-um-15-2000x1063.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/foto-am-02-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -470,7 +470,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<p>Rüdiger Müller, CEO<br></p><br><p>Zitterweg 17<br>49328 Melle<br>Germany<br></p><br><p>rm1911@icloud.com<br>+49 160 977 19804</p><p>MessengerFlatrate</p><p><br></p>",
+          "text1": "<p>Rüdiger Müller, CEO<br></p><br><p>Zitterweg 17<br>49328 Melle<br>Germany<br></p><br><p>rm1911@icloud.com<br>+49 160 977 19804</p><p>Messanger Flatrate CS</p><p><br></p>",
           "text2": ""
         }
       ]
