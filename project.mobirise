@@ -207,7 +207,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/foto-am-06-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/foto-am-07-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -222,9 +222,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"line-height: 1.1;\">FORSVARET DEUTSCH!</span><br><span style=\"line-height: 1.1;\"><br></span><span style=\"line-height: 1.1;\"><br></span><span style=\"line-height: 1.1;\"><br></span><br>",
+          "title": "<span style=\"line-height: 1.1;\">FORSVARET DEUTSCH!</span><span style=\"line-height: 1.1;\"><br></span><br><br><br><br><br><br><br>",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/rüdiger-müller-4b9988a8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>Professional Net</a>  "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/rüdiger-müller-4b9988a8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>Professional Net<br></a>  "
         },
         {
           "_inherit": "features1",
