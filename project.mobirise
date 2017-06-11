@@ -137,8 +137,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://rm1911meesdorfrangers.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FORSVARET DEUTSCH!</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\">SPEZIALJÄGER STREAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\">EPOST KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-4\">IMPRESSUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#feed-6\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://rm1911meesdorfrangers.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FORSVARET+++DE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\">SPEZIALJÄGER-STREAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\">EPOST-KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-4\">IMPRESSUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#feed-6\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -161,7 +161,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Rüdiger Müller greets SAE,LAH-REENCT,ZENIM."
+          "text": "Rüdiger Müller has MANY-FALSLYING enemies at Uni-Bielefeld, Bundesregierung and Lower-Saxony..."
         },
         {
           "_tags": [
@@ -192,7 +192,7 @@
               "text-align": "center"
             },
             ".mbr-section-title SPAN": {
-              "color": "#ffffff",
+              "color": "#0cff5b",
               "font-size": "84px",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
@@ -207,7 +207,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/sgrdsreien-2000x1352.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bildschirmfoto-2017-06-11-um-16-2000x1250.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -222,9 +222,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"line-height: 1.1;\">FORSVARET DEUTSCH!</span><span style=\"line-height: 1.1;\"><br></span><br><br><br><br><br><br>",
+          "title": "<span style=\"line-height: 1.1;\">FORSVARET+++DE</span><span style=\"line-height: 1.1;\"><br></span><br><br><br>",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/rüdiger-müller-4b9988a8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>Professional Net<br></a>  "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/rüdiger-müller-4b9988a8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>Professional Network<br></a>  "
         },
         {
           "_inherit": "features1",
@@ -278,7 +278,7 @@
               "family": "socicon",
               "active": true,
               "link": "http://www.facebook.com/forsvaretdeutschland",
-              "size": "128",
+              "size": "96",
               "newWindow": true,
               "color": "#efefef"
             }
@@ -295,7 +295,7 @@
               "family": "socicon",
               "active": true,
               "link": "http://www.instagram.com/ruediger_mueller",
-              "size": "128",
+              "size": "96",
               "newWindow": true,
               "color": "#efefef"
             }
@@ -312,7 +312,7 @@
               "family": "socicon",
               "active": true,
               "link": "https://www.youtube.com/channel/UCTxelte60FIsvqv1Fnwj74Q/videos?view=0&flow=grid&sort=p",
-              "size": "128",
+              "size": "96",
               "newWindow": true,
               "color": "#efefef"
             }
@@ -419,7 +419,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">DATA-PUSH</a>"
         },
         {
           "_tags": [
@@ -470,7 +470,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<p>Rüdiger Müller<br></p><br><p>Zitterweg 17<br>49328 Melle<br>Germany<br></p><br><p>rm1911@icloud.com<br>+49 160 977 19804</p><p><br></p>",
+          "text1": "<p>!!!! Rüdiger Müller<br></p><br><p>Zitterweg 17<br>49328 Melle<br>Germany<br></p><br><p>rm1911@icloud.com<br>+49 160 977 19804</p><p><br></p>",
           "text2": ""
         }
       ]
