@@ -461,13 +461,13 @@ h6,
 #menu-0 .nav-dropdown-sm .link:hover,
 #menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
+  background: #021307!important;
 }
 #menu-0 .navbar,
 #menu-0 .nav-dropdown-sm,
 #menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #03210c;
 }
 #menu-0 .bg-color.transparent .link {
   color: #ffffff;
@@ -518,7 +518,7 @@ h6,
   text-align: center;
 }
 #header1-0 .mbr-section-title SPAN {
-  color: #0cff5b;
+  color: #2fea6c;
   font-size: 84px;
   font-family: 'Roboto Slab', serif;
   text-align: center;
@@ -527,7 +527,7 @@ h6,
   font-size: 24px;
 }
 #features2-1 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #000000;
+  background-color: #03210c;
 }
 #features2-1 .mbr-cards-col:nth-child(even) .card-text {
   color: #ffffff;

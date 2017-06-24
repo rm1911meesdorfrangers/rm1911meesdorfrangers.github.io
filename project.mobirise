@@ -73,10 +73,10 @@
               "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#021307!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#03210c"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -105,7 +105,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#03210c",
             "fontSize": "1.15",
             "fontName": {
               "name": "Roboto Slab",
@@ -137,8 +137,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://rm1911meesdorfrangers.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FORSVARET+++DE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\">SPEZIALJÄGER-STREAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\">EPOST-KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-4\">IMPRESSUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#feed-6\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://rm1911meesdorfrangers.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FORSVARET++++DE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-1\">SPESIALJEGER-STREAMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\">EPOST-KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-4\">IMPRESSUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#feed-6\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -155,13 +155,13 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#03210c",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Rüdiger Müller has MANY-FALSLYING enemies at Uni-Bielefeld, Bundesregierung and Lower-Saxony..."
+          "text": "Rüdiger Müller is not a \"falsing-horsey Meesdorfer Clown\" ..."
         },
         {
           "_tags": [
@@ -192,7 +192,7 @@
               "text-align": "center"
             },
             ".mbr-section-title SPAN": {
-              "color": "#0cff5b",
+              "color": "#2fea6c",
               "font-size": "84px",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
@@ -207,7 +207,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/bildschirmfoto-2017-06-11-um-16-2000x1250.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/image1-2-2000x1500.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -222,9 +222,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"line-height: 1.1;\">FORSVARET+++DE</span><span style=\"line-height: 1.1;\"><br></span><br><br><br>",
+          "title": "<span style=\"line-height: 1.1;\">FORSVARET++++DE</span><span style=\"line-height: 1.1;\"><br></span><br><br><br><br><br><br>",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/rüdiger-müller-4b9988a8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>Professional Network<br></a>  "
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/rüdiger-müller-4b9988a8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(147, 101, 184);\"></span>&nbsp;Company Network</a>    "
         },
         {
           "_inherit": "features1",
@@ -234,7 +234,7 @@
           "_name": "features2",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#000000"
+              "background-color": "#03210c"
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
               "color": "#ffffff"
@@ -248,13 +248,13 @@
           },
           "_anchor": "features2-1",
           "_params": {
-            "columnsColor": "#000000",
+            "columnsColor": "#03210c",
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#03210c",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -280,7 +280,7 @@
               "link": "http://www.facebook.com/forsvaretdeutschland",
               "size": "96",
               "newWindow": true,
-              "color": "#efefef"
+              "color": "#2969b0"
             }
           },
           "title1": "VIEW",
@@ -297,7 +297,7 @@
               "link": "http://www.instagram.com/ruediger_mueller",
               "size": "96",
               "newWindow": true,
-              "color": "#efefef"
+              "color": "#f7da64"
             }
           },
           "title2": "DECIDE",
@@ -314,7 +314,7 @@
               "link": "https://www.youtube.com/channel/UCTxelte60FIsvqv1Fnwj74Q/videos?view=0&flow=grid&sort=p",
               "size": "96",
               "newWindow": true,
-              "color": "#efefef"
+              "color": "#e25041"
             }
           },
           "title3": "WATCH",
@@ -419,7 +419,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">DATA-PUSH</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">THROW YOUR DATA</a>"
         },
         {
           "_tags": [
@@ -458,7 +458,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#03210c",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": "0.5",
@@ -470,7 +470,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<p>!!!! Rüdiger Müller<br></p><br><p>Zitterweg 17<br>49328 Melle<br>Germany<br></p><br><p>rm1911@icloud.com<br>+49 160 977 19804</p><p><br></p>",
+          "text1": "<p>&gt;&gt; Rüdiger Müller &lt;&lt;<br></p><br><p>; Zitterweg 17<br>; 49328 Melle<br>; Germany<br></p><br><p>rm1911@icloud.com<br>+49 160 977 19804</p><p>WhatsApp/Facebook</p><p><br></p>",
           "text2": ""
         }
       ]
